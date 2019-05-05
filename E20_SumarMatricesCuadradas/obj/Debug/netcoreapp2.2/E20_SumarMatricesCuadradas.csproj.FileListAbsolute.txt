@@ -1,0 +1,10 @@
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E20_SumarMatricesCuadradas\E20_SumarMatricesCuadradas\bin\Debug\netcoreapp2.2\E20_SumarMatricesCuadradas.deps.json
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E20_SumarMatricesCuadradas\E20_SumarMatricesCuadradas\bin\Debug\netcoreapp2.2\E20_SumarMatricesCuadradas.runtimeconfig.json
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E20_SumarMatricesCuadradas\E20_SumarMatricesCuadradas\bin\Debug\netcoreapp2.2\E20_SumarMatricesCuadradas.runtimeconfig.dev.json
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E20_SumarMatricesCuadradas\E20_SumarMatricesCuadradas\bin\Debug\netcoreapp2.2\E20_SumarMatricesCuadradas.dll
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E20_SumarMatricesCuadradas\E20_SumarMatricesCuadradas\bin\Debug\netcoreapp2.2\E20_SumarMatricesCuadradas.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E20_SumarMatricesCuadradas\E20_SumarMatricesCuadradas\obj\Debug\netcoreapp2.2\E20_SumarMatricesCuadradas.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E20_SumarMatricesCuadradas\E20_SumarMatricesCuadradas\obj\Debug\netcoreapp2.2\E20_SumarMatricesCuadradas.AssemblyInfoInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E20_SumarMatricesCuadradas\E20_SumarMatricesCuadradas\obj\Debug\netcoreapp2.2\E20_SumarMatricesCuadradas.AssemblyInfo.cs
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E20_SumarMatricesCuadradas\E20_SumarMatricesCuadradas\obj\Debug\netcoreapp2.2\E20_SumarMatricesCuadradas.dll
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E20_SumarMatricesCuadradas\E20_SumarMatricesCuadradas\obj\Debug\netcoreapp2.2\E20_SumarMatricesCuadradas.pdb
